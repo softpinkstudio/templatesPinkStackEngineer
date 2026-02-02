@@ -1,0 +1,53 @@
+{
+  "name": "soft-pink-engineer",
+  "displayName": "Soft Pink Engineer 💗",
+  "description": "Cute & professional Markdown templates for engineers. DevOps, SecDevOps, Frontend, Backend, Cloud & Students ✨",
+  "version": "1.0.0",
+  "publisher": "softpinkstudio",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Snippets",
+    "Other"
+  ],
+  "keywords": [
+    "markdown",
+    "snippets",
+    "devops",
+    "secdevops",
+    "terraform",
+    "aws",
+    "gcp",
+    "azure",
+    "frontend",
+    "backend",
+    "flutter",
+    "swift",
+    "cute",
+    "kawaii",
+    "soft pink"
+  ],
+  "icon": "images/softPinkEnginner.png",
+  "galleryBanner": {
+    "color": "#FADADD",
+    "theme": "light"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "markdown",
+        "path": "./snippets/markdown.code-snippets"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softpinkstudio/templatesPinkStackEngineer"
+  },
+  "bugs": {
+    "url": "https://github.com/softpinkstudio/templatesPinkStackEngineer/issues"
+  },
+  "homepage": "https://github.com/softpinkstudio/templatesPinkStackEngineer#readme",
+  "license": "MIT"
+}
