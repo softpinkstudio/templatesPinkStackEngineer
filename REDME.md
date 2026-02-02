@@ -1,5 +1,5 @@
 # 🎀 Soft Pink Engineer
-![banner description](description.png)
+![banner description](../images/description.png)
 💗 Cute & professional Markdown templates for engineering students.
 
 ## ✨ Features
